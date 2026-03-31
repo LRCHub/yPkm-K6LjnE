@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白幻花",
+  "base_artist": "ヒバナ - HIBANA -",
+  "createdAt": "2026-03-31T09:21:57.263946Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白幻花",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_白幻花_ヒバナ.txt"
+    }
+  ]
+}
